@@ -6,7 +6,7 @@ namespace EnvvironmentTesting
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World! testar1 test");
+            Console.WriteLine("Hello World! testar1 test prövar");
         }
     }
 }
